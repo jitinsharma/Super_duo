@@ -51,6 +51,6 @@
 
     <string name="widget_empty">No matches found</string>
     <string name="share_button_content" translatable="false">Share Button</string>
-    <string name="api_key" translatable="false">2042f7ed21834ebfbecf6854d2ce073c</string>
+    <string name="api_key" translatable="false"></string>
 
 </resources>
